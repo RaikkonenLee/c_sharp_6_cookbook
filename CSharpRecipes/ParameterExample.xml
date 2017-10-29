@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet href="ParameterExample.xslt" type="text/xsl"?>
+<ParameterExample>
+	<ComicBook name="The Amazing Spider-Man" edition="1"/>
+	<ComicBook name="The Uncanny X-Men" edition="2"/>
+	<ComicBook name="Superman" edition="3"/>
+	<ComicBook name="Batman" edition="4"/>
+	<ComicBook name="The Fantastic Four" edition="5"/>
+</ParameterExample>

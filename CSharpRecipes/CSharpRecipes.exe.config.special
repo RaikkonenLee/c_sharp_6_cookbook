@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8" ?> 
+
+<configuration>
+	<system.diagnostics>
+		<switches>
+			<add name="App1" value="20" />
+			<add name="App2" value="0" />
+		</switches>
+	   
+		<trace autoflush="true" indentsize="4">		<!-- if autoflush == false, an exception will occur when executing Trace.Fail/Assert -->
+			<listeners>
+				<add name="SpecialFileListener" type="System.Diagnostics.TextWriterTraceListener" initializeData="SpecialFile.log"/>
+				<!-- 
+					CANNOT USE CONSOLE.OUT IN THE LISTENERS TAG - It Thinks This Is A String
+					<add name="ConsoleListener" type="System.Diagnostics.TextWriterTraceListener" initializeData="Console.Out"/>
+				-->
+			</listeners>
+		</trace>
+<other><add value="2" name="App3" other="asdf"/></other>
+	</system.diagnostics>
+</configuration>
+
+
+
+
+<!--
+See:  ms-help://MS.VSCC/MS.MSDNVS/cpgenref/html/gngrftracedebugsettingsschema.htm
+
+<configuration>
+   <system.diagnostics>
+      <assert>
+      <switches>
+         <add>
+      <trace>
+         <listeners>
+            <remove>
+            <add>
+
+
+-->
+
+

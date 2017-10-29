@@ -1,0 +1,8 @@
+﻿Soups
+Salads
+Appetizers
+Entrees
+Desserts
+Snacks
+Breakfast
+Sandwiches

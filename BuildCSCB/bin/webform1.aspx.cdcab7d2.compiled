@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/CSCBWeb/WebForm1.aspx" hash="f68ee803" filehash="b7edddeb025bd338" flags="110000" assembly="App_Web_zfleniyz" type="ASP.webform1_aspx">
+    <filedeps>
+        <filedep name="/CSCBWeb/WebForm1.aspx" />
+        <filedep name="/CSCBWeb/WebForm1.aspx.cs" />
+    </filedeps>
+</preserve>

@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Book name="C# Cookbook">
+    <Chapter>File System IO</Chapter>
+    <Chapter>Security</Chapter>
+    <Chapter>Data Structures and Algorithms</Chapter>
+    <Chapter>Reflection</Chapter>
+    <Chapter>Threading and Synchronization</Chapter>
+    <Chapter>Numbers and Enumerations</Chapter>
+    <Chapter>Strings and Characters</Chapter>
+    <Chapter>Classes And Structures</Chapter>
+    <Chapter>Collections</Chapter>
+    <Chapter>XML</Chapter>
+    <Chapter>Delegates, Events, and Anonymous Methods</Chapter>
+    <Chapter>Diagnostics</Chapter>
+    <Chapter>Toolbox</Chapter>
+    <Chapter>Unsafe Code</Chapter>
+    <Chapter>Regular Expressions</Chapter>
+	<Chapter>Generics</Chapter>
+	<Chapter>Iterators and Partial Types</Chapter>
+	<Chapter>Exception Handling</Chapter>
+	<Chapter>Web</Chapter>
+	<Chapter>Networking</Chapter>
+</Book>

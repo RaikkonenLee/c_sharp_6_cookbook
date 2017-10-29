@@ -1,0 +1,36 @@
+<Invoice invoiceDate="2003-10-05" invoiceNumber="INV-01">
+  <billInfo>
+    <name>Beerly Standing</name>
+    <attn>Accounting</attn>
+    <street>98 North Street</street>
+    <city>Intox</city>
+    <state>NH</state>
+  </billInfo>
+  <shipInfo>
+    <name>Beerly Standing</name>
+    <attn>Receiving</attn>
+    <street>47 South Street</street>
+    <city>Intox</city>
+    <state>NH</state>
+  </shipInfo>
+  <Items>
+    <item partNum="98745">
+      <productName>Brown Eyed Stout</productName>
+      <quantity>12</quantity>
+      <price>23.99</price>
+      <shipDate>2003-12-20</shipDate>
+    </item>
+    <item partNum="34987">
+      <productName>Diamond Pearl Lager</productName>
+      <quantity>22</quantity>
+      <price>35.98</price>
+      <shipDate>2003-12-20</shipDate>
+    </item>
+    <item partNum="AK254">
+      <productName>Job Site Ale</productName>
+      <quantity>50</quantity>
+      <price>12.56</price>
+      <shipDate>2003-11-12</shipDate>
+    </item>
+  </Items>
+</Invoice>

@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="BillingEnvelope">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="billInfo">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="name" type="xs:string" />
+              <xs:element name="attn" type="xs:string" />
+              <xs:element name="street" type="xs:string" />
+              <xs:element name="city" type="xs:string" />
+              <xs:element name="state" type="xs:string" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute name="invoiceDate" type="xs:date" use="required" />
+      <xs:attribute name="invoiceNumber" type="xs:string" use="required" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

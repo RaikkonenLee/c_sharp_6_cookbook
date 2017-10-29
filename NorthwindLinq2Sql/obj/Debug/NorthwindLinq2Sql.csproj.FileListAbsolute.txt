@@ -1,0 +1,6 @@
+C:\Programing\c_sharp_6_cookbook-master\CSCB6CodeSamples\Code\NorthwindLinq2Sql\bin\Debug\NorthwindLinq2Sql.dll.config
+C:\Programing\c_sharp_6_cookbook-master\CSCB6CodeSamples\Code\NorthwindLinq2Sql\bin\Debug\NorthwindLinq2Sql.dll
+C:\Programing\c_sharp_6_cookbook-master\CSCB6CodeSamples\Code\NorthwindLinq2Sql\bin\Debug\NorthwindLinq2Sql.pdb
+C:\Programing\c_sharp_6_cookbook-master\CSCB6CodeSamples\Code\NorthwindLinq2Sql\obj\Debug\NorthwindLinq2Sql.csprojResolveAssemblyReference.cache
+C:\Programing\c_sharp_6_cookbook-master\CSCB6CodeSamples\Code\NorthwindLinq2Sql\obj\Debug\NorthwindLinq2Sql.dll
+C:\Programing\c_sharp_6_cookbook-master\CSCB6CodeSamples\Code\NorthwindLinq2Sql\obj\Debug\NorthwindLinq2Sql.pdb

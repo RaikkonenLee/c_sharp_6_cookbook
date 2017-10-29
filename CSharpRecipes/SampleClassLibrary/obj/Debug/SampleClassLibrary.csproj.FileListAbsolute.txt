@@ -1,0 +1,8 @@
+C:\Programing\c_sharp_6_cookbook-master\CSCB6CodeSamples\Code\CSharpRecipes\bin\Debug\SampleClassLibraryTests.xml
+C:\Programing\c_sharp_6_cookbook-master\CSCB6CodeSamples\Code\CSharpRecipes\bin\Debug\SampleClassLibrary.dll
+C:\Programing\c_sharp_6_cookbook-master\CSCB6CodeSamples\Code\CSharpRecipes\bin\Debug\SampleClassLibrary.pdb
+C:\Programing\c_sharp_6_cookbook-master\CSCB6CodeSamples\Code\CSharpRecipes\bin\Debug\SampleClassLibrary.dll.CodeAnalysisLog.xml
+C:\Programing\c_sharp_6_cookbook-master\CSCB6CodeSamples\Code\CSharpRecipes\bin\Debug\SampleClassLibrary.dll.lastcodeanalysissucceeded
+C:\Programing\c_sharp_6_cookbook-master\CSCB6CodeSamples\Code\CSharpRecipes\SampleClassLibrary\obj\Debug\SampleClassLibrary.csprojResolveAssemblyReference.cache
+C:\Programing\c_sharp_6_cookbook-master\CSCB6CodeSamples\Code\CSharpRecipes\SampleClassLibrary\obj\Debug\SampleClassLibrary.dll
+C:\Programing\c_sharp_6_cookbook-master\CSCB6CodeSamples\Code\CSharpRecipes\SampleClassLibrary\obj\Debug\SampleClassLibrary.pdb

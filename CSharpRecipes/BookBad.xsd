@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://tempuri.org/Book.xsd" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:element name="Book">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:choice maxOccurs="unbounded">
+          <xs:element maxOccurs="unbounded" name="Chapter" type="xs:string" />
+          <xs:element name="BadElement" type="xs:string" />
+        </xs:choice>
+      </xs:sequence>
+      <xs:attribute name="name" type="xs:string" use="required" />
+    </xs:complexType>
+  </xs:element>
+</xs:schema>

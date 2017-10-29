@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ShippingEnvelope invoiceDate="2003-10-05" invoiceNumber="INV-01">
+  <shipInfo>
+    <name>Beerly Standing</name>
+    <attn>Receiving</attn>
+    <street>47 South Street</street>
+    <city>Intox</city>
+    <state>NH</state>
+  </shipInfo>
+</ShippingEnvelope>

@@ -1,0 +1,9 @@
+<?xml version='1.0'?>
+<!-- My sample XML -->
+<?pi myProcessingInstruction?>
+<Root>
+    <Node1 nodeId='1'>First Node</Node1>
+    <Node2 nodeId='2'>Second Node</Node2>
+    <Node3 nodeId='3'>Third Node</Node3>
+    <Node4><![CDATA[<>\&']]></Node4>
+</Root>

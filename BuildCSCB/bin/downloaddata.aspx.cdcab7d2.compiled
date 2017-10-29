@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<preserve resultType="3" virtualPath="/CSCBWeb/DownloadData.aspx" hash="f68ee803" filehash="7348fb3bb9558c02" flags="110000" assembly="App_Web_zfleniyz" type="ASP.downloaddata_aspx">
+    <filedeps>
+        <filedep name="/CSCBWeb/DownloadData.aspx" />
+        <filedep name="/CSCBWeb/DownloadData.aspx.cs" />
+    </filedeps>
+</preserve>

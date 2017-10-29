@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 9.00
+# Visual Studio 2005
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeClientConsole", "NamedPipeClientConsole.csproj", "{95F83637-5A42-4889-885C-F71DD939F7D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeInteropLibrary", "..\NamedPipeInteropLibrary\NamedPipeInteropLibrary.csproj", "{45C8666C-F9BB-41D3-83C6-CB6F200D151C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NamedPipeServerConsole", "..\NamedPipeServerConsole\NamedPipeServerConsole.csproj", "{67351724-2929-4498-B4C2-52C3D13B44E3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{95F83637-5A42-4889-885C-F71DD939F7D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{95F83637-5A42-4889-885C-F71DD939F7D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{95F83637-5A42-4889-885C-F71DD939F7D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{95F83637-5A42-4889-885C-F71DD939F7D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45C8666C-F9BB-41D3-83C6-CB6F200D151C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45C8666C-F9BB-41D3-83C6-CB6F200D151C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45C8666C-F9BB-41D3-83C6-CB6F200D151C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45C8666C-F9BB-41D3-83C6-CB6F200D151C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67351724-2929-4498-B4C2-52C3D13B44E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67351724-2929-4498-B4C2-52C3D13B44E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67351724-2929-4498-B4C2-52C3D13B44E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67351724-2929-4498-B4C2-52C3D13B44E3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,106 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Publications>
+  <Book name="Subclassing and Hooking with Visual Basic">
+    <Chapter>Introduction</Chapter>
+    <Chapter>Windows System-Specific Information</Chapter>
+    <Chapter>The Basics of Subclassing and Hooks</Chapter>
+    <Chapter>Subclassing and Superclassing</Chapter>
+    <Chapter>Subclassing the Windows Common Dialog Boxes</Chapter>
+    <Chapter>ActiveX Controls and Subclassing</Chapter>
+    <Chapter>Superclassing</Chapter>
+    <Chapter>Debugging Techniques for Subclassing</Chapter>
+    <Chapter>WH_CALLWNDPROC</Chapter>
+    <Chapter>WH_CALLWNDPROCRET</Chapter>
+    <Chapter>WH_GETMESSAGE</Chapter>
+    <Chapter>WH_KEYBOARD and WH_KEYBOARD_LL</Chapter>
+    <Chapter>WH_MOUSE and WH_MOUSE_LL</Chapter>
+    <Chapter>WH_FOREGROUNDIDLE</Chapter>
+    <Chapter>WH_MSGFILTER</Chapter>
+    <Chapter>WH_SYSMSGFILTER</Chapter>
+    <Chapter>WH_SHELL</Chapter>
+    <Chapter>WH_CBT</Chapter>
+    <Chapter>WH_JOURNALRECORD</Chapter>
+    <Chapter>WH_JOURNALPLAYBACK</Chapter>
+    <Chapter>WH_DEBUG</Chapter>
+    <Chapter>Subclassing .NET WinForms</Chapter>
+    <Chapter>Implementing Hooks in VB.NET</Chapter>
+  </Book>
+  <Book name="C# Cookbook">
+    <Chapter>Numbers</Chapter>
+    <Chapter>Strings and Characters</Chapter>
+    <Chapter>Classes And Structures</Chapter>
+    <Chapter>Enums</Chapter>
+    <Chapter>Exception Handling</Chapter>
+    <Chapter>Diagnostics</Chapter>
+    <Chapter>Delegates and Events</Chapter>
+    <Chapter>Regular Expressions</Chapter>
+    <Chapter>Collections</Chapter>
+    <Chapter>Data Structures and Algorithms</Chapter>
+    <Chapter>File System IO</Chapter>
+    <Chapter>Reflection</Chapter>
+    <Chapter>Networking</Chapter>
+    <Chapter>Security</Chapter>
+    <Chapter>Threading</Chapter>
+    <Chapter>Unsafe Code</Chapter>
+    <Chapter>XML</Chapter>
+  </Book>
+  <Book name="C# Cookbook 2.0">
+    <Chapter>Numbers and Enumerations</Chapter>
+    <Chapter>Strings and Characters</Chapter>
+    <Chapter>Classes And Structures</Chapter>
+    <Chapter>Generics</Chapter>
+    <Chapter>Collections</Chapter>
+    <Chapter>Iterators and Partial Types</Chapter>
+    <Chapter>Exception Handling</Chapter>
+    <Chapter>Diagnostics</Chapter>
+    <Chapter>Delegates, Events, and Anonymous Methods</Chapter>
+    <Chapter>Regular Expressions</Chapter>
+    <Chapter>Data Structures and Algorithms</Chapter>
+    <Chapter>File System IO</Chapter>
+    <Chapter>Reflection</Chapter>
+    <Chapter>Web</Chapter>
+    <Chapter>XML</Chapter>
+    <Chapter>Networking</Chapter>
+    <Chapter>Security</Chapter>
+    <Chapter>Threading and Synchronization</Chapter>
+    <Chapter>Unsafe Code</Chapter>
+    <Chapter>Toolbox</Chapter>
+  </Book>
+  <Book name="C# 3.0 Cookbook">
+    <Chapter>Language Integrated Query (LINQ)</Chapter>
+    <Chapter>Strings and Characters</Chapter>
+    <Chapter>Classes And Structures</Chapter>
+    <Chapter>Generics</Chapter>
+    <Chapter>Collections</Chapter>
+    <Chapter>Iterators, Partial Types, and Partial Methods </Chapter>
+    <Chapter>Exception Handling</Chapter>
+    <Chapter>Diagnostics</Chapter>
+    <Chapter>Delegates, Events, and Lambda Expressions</Chapter>
+    <Chapter>Regular Expressions</Chapter>
+    <Chapter>Data Structures and Algorithms</Chapter>
+    <Chapter>File System IO</Chapter>
+    <Chapter>Reflection</Chapter>
+    <Chapter>Web</Chapter>
+    <Chapter>XML</Chapter>
+    <Chapter>Networking</Chapter>
+    <Chapter>Security</Chapter>
+    <Chapter>Threading and Synchronization</Chapter>
+    <Chapter>Toolbox</Chapter>
+    <Chapter>Numbers and Enumerations</Chapter>
+  </Book>
+  <Book name="C# 6.0 Cookbook">
+    <Chapter>Classes and Generics</Chapter>
+    <Chapter>Collections, Enumerators, and Iterators</Chapter>
+    <Chapter>Data Types</Chapter>
+    <Chapter>LINQ and Lambda Expressions</Chapter>
+    <Chapter>Debugging and Exception Handling</Chapter>
+    <Chapter>Reflection and Dynamic Programming</Chapter>
+    <Chapter>Regular Expressions</Chapter>
+    <Chapter>Filesystem I/O</Chapter>
+    <Chapter>Networking and Web</Chapter>
+    <Chapter>XML</Chapter>
+    <Chapter>Security</Chapter>
+    <Chapter>Threading, Synchronization, and Concurrency</Chapter>
+    <Chapter>Toolbox</Chapter>
+  </Book>
+</Publications>

@@ -1,0 +1,9 @@
+﻿<Window x:Class="UnhandledWPFException.Window1"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    Title="Window1" Height="300" Width="300">
+    <Grid>
+        <Button Margin="99.127,109.123,103.292,129.948" Name="m_btnGoBoom" Click="m_btnGoBoom_Click">Go BOOM!</Button>
+        <Button Height="20.825" Margin="91.63,0,95.795,87.465" Name="m_btnThreadBoom" VerticalAlignment="Bottom" Click="m_btnThreadBoom_Click">Thread BOOM!</Button>
+    </Grid>
+</Window>
